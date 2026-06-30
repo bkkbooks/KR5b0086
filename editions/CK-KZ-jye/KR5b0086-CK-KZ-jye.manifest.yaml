@@ -1,0 +1,394 @@
+canonical_identifier: bkk:krp/KR5b0086/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5b0086/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃庭內景玉經註(二)
+  date: '2015-08-28 23:49:10.977270'
+  source:
+    repository: kanripo
+    path: KR5b0086
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0086_000-CK-KZ-jye.yaml, hash: 'sha256:5f6eed632680c134b82a1cd31d4af4c92f1d4ffeee2a28c4795c592001e69fa0'}
+  - {seq: 1, filename: KR5b0086_001-CK-KZ-jye.yaml, hash: 'sha256:25c57fb872b41649ffc9efa4588941636c1507c0562e513a2802dfc1fe84f352'}
+  - {seq: 2, filename: KR5b0086_002-CK-KZ-jye.yaml, hash: 'sha256:097fc0db0f86afd5633ac8abd080e169651ce54c67e024f54ab48e62df27cf3f'}
+  - {seq: 3, filename: KR5b0086_003-CK-KZ-jye.yaml, hash: 'sha256:5466e70f0255efd1b126e0e7510aa0098c0a41d0f94737e0c1665ea27477f3b8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5b0086_001-CK-KZ-jye.markers.yaml, hash: 'sha256:5346d1f8ee8a1ba198ab7ea642f623db9abd2f865c4c1aa1b4ea79bb23c48828'}
+  - {seq: 2, role: markers, filename: assets/KR5b0086_002-CK-KZ-jye.markers.yaml, hash: 'sha256:d0d8f0b935ae0c9a3aabca5ca6e44669973f175e531109d0f9c6f60f126ced02'}
+  - {seq: 3, role: markers, filename: assets/KR5b0086_003-CK-KZ-jye.markers.yaml, hash: 'sha256:7d96b6e796f5341117ba149bb83a714f00b25f0c58e7cb78e90b827e02c05e1a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 462
+  label: 上淸章第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 462
+    - 1089
+  label: 上有章第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 1089
+    - 1414
+  label: 口爲章第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 1414
+    - 1939
+  label: 黃庭章第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 1939
+    - 2118
+  label: 中池章第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 2118
+    - 2474
+  label: 天中章第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 2474
+    - 2949
+  label: 至道章第七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h9
+    span:
+    - body
+    - 2949
+    - 3473
+  label: 心神章第八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h10
+    span:
+    - body
+    - 3473
+    - 3707
+  label: 肺部章第九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h11
+    span:
+    - body
+    - 3707
+    - 3943
+  label: 心部章第十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h12
+    span:
+    - body
+    - 3943
+    - 4547
+  label: 肝部章第十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ-jye_001-h13
+    span:
+    - body
+    - 4547
+    - 4819
+  label: 腎部章第十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 318
+  label: 脾部章第十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 318
+    - 580
+  label: 膽部章第十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 580
+    - 1530
+  label: 脾長章第十五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 1530
+    - 1891
+  label: 上覩章第十六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 1891
+    - 2666
+  label: 靈臺章第十七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 2666
+    - 2829
+  label: 三關章第十八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 2829
+    - 3490
+  label: 若得章第十九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h8
+    span:
+    - body
+    - 3490
+    - 3912
+  label: 呼吸章第二十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h9
+    span:
+    - body
+    - 3912
+    - 4495
+  label: 瓊室章第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h10
+    span:
+    - body
+    - 4495
+    - 5259
+  label: 常念章第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ-jye_002-h11
+    span:
+    - body
+    - 5259
+    - 5725
+  label: 治生章第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 298
+  label: 隱景章第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 298
+    - 868
+  label: 五行章第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 868
+    - 1268
+  label: 高奔章第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 1268
+    - 1580
+  label: 玄元章第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h5
+    span:
+    - body
+    - 1580
+    - 2070
+  label: 仙人章第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h6
+    span:
+    - body
+    - 2070
+    - 2199
+  label: 紫淸章第二十九¶<md:KR5b0086_HFL_003-010b>
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h7
+    span:
+    - body
+    - 2199
+    - 2337
+  label: 百穀章第三十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h8
+    span:
+    - body
+    - 2337
+    - 2495
+  label: 心典章第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h9
+    span:
+    - body
+    - 2495
+    - 2655
+  label: 經厯章第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h10
+    span:
+    - body
+    - 2655
+    - 3282
+  label: 肝氣章第三十三¶<md:KR5b0086_HFL_003-014a>
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h11
+    span:
+    - body
+    - 3282
+    - 3571
+  label: 肺之章第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h12
+    span:
+    - body
+    - 3571
+    - 4361
+  label: 隱藏章第三十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ-jye_003-h13
+    span:
+    - body
+    - 4361
+    - 4823
+  label: 沐浴章第三十六
+  type: section
+  level: 2
+hash: sha256:5f518b343fb27a3bc543e02940bf524313212bf673de90034af0de63d1a9e568

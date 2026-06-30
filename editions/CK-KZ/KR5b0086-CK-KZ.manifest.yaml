@@ -1,0 +1,65 @@
+canonical_identifier: bkk:krp/KR5b0086/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0086/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃庭內景玉經註(二)
+  date: '2015-08-28 23:49:10.977270'
+  source:
+    repository: kanripo
+    path: KR5b0086
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0086_000-CK-KZ.yaml, hash: 'sha256:cfa67785ee705e4ab413625e7473c5362e6987309e4e6388f38da0b83101fe00'}
+  - {seq: 1, filename: KR5b0086_001-CK-KZ.yaml, hash: 'sha256:16e6b2a5c946c5f0753a2c3e673369e5b4b7a98041571ad56d97092320a2f8ab'}
+  - {seq: 2, filename: KR5b0086_002-CK-KZ.yaml, hash: 'sha256:b48c7827a81a19a15df747e8573641c5a0a9b97082a2b569941019a28e620cf9'}
+  - {seq: 3, filename: KR5b0086_003-CK-KZ.yaml, hash: 'sha256:b176c19f8c0cb36a643f81658005d033908564aa4ad0c9af16130c54268d124b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5b0086_001-CK-KZ.markers.yaml, hash: 'sha256:5502f56f06af6e5bdc0c1f5cfa6e76c2bb13c67288b6835485b4eb459685e1e6'}
+  - {seq: 2, role: markers, filename: assets/KR5b0086_002-CK-KZ.markers.yaml, hash: 'sha256:5cdc337fdaf589c13a63d683cd6e47b7a114bbfbd12ca58970ded5ddefa86629'}
+  - {seq: 3, role: markers, filename: assets/KR5b0086_003-CK-KZ.markers.yaml, hash: 'sha256:9fcee10ccf00552d586cb622f36acd58ebef1f2fad594f272c424943129f7a54'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5b0086_CK-KZ_01p001a
+    span:
+    - body
+    - 0
+    - 4893
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5b0086_CK-KZ_01p008a
+    span:
+    - body
+    - 0
+    - 5794
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0086_CK-KZ_01p016a
+    span:
+    - body
+    - 0
+    - 4913
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:2218267091714470b8fc600c33951e789a4e39a347047119302d0a9920c89d11
