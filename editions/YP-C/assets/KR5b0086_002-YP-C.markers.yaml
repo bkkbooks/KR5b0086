@@ -12,6 +12,7 @@ markers:
 
       ', id: KR5b0086_YP-C_002-bkkkrnewl2}
   - {type: line-break, offset: 18, content: '', id: KR5b0086_YP-C_06weiji-02-0082a03}
+  - {type: 'voice:problem', offset: 18, length: 0, id: KR5b0086_YP-C_002-bkkvprob1, source: parens, bucket: front, code: stray-close, message: unexpected ')' at offset 18 with no matching '('}
   - {type: 'kr:newline', offset: 24, content: '
 
       ', id: KR5b0086_YP-C_002-bkkkrnewl3}
@@ -1499,5 +1500,6 @@ markers:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR5b0086_YP-C_002-bkkkrnewl1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR5b0086_YP-C_002-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   back: []
-hash: sha256:793096023aaa8664ab7971c2bd4f2f5c7a12049402e911c8331b8ddfff2ccf34
+hash: sha256:0541fb99f653ef5c63b1e7aa5284d721afad2b84a2b61539d1f4343d17435967

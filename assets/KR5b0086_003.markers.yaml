@@ -3830,6 +3830,7 @@ markers:
   - {type: variant, offset: 4917, length: 10, content: 黃庭內景玉經註卷下終, YP-C: ''}
   - {type: substitution, offset: 4923, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: punctuation, offset: 4926, content: (, id: KR5b0086_krp_003-bkkpn1}
+  - {type: voice, offset: 4926, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4927, content: ), id: KR5b0086_krp_003-bkkpn2}
   - {type: 'kr:newline', offset: 4927, content: '
 
@@ -3850,4 +3851,4 @@ markers:
 
       ', id: KR5b0086_krp_003-bkkkrnewl552}
   back: []
-hash: sha256:4a5359513c6b6879cc29dee60529677119fdfc29efeba62168c001d1d2c6a566
+hash: sha256:87643a02559c071d1b3b881663386243aca50119dcbd8151f2743535d8dc5a94

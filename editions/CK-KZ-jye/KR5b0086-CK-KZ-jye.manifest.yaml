@@ -27,9 +27,9 @@ assets:
   - {seq: 2, filename: KR5b0086_002-CK-KZ-jye.yaml, hash: 'sha256:097fc0db0f86afd5633ac8abd080e169651ce54c67e024f54ab48e62df27cf3f'}
   - {seq: 3, filename: KR5b0086_003-CK-KZ-jye.yaml, hash: 'sha256:5466e70f0255efd1b126e0e7510aa0098c0a41d0f94737e0c1665ea27477f3b8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5b0086_001-CK-KZ-jye.markers.yaml, hash: 'sha256:5346d1f8ee8a1ba198ab7ea642f623db9abd2f865c4c1aa1b4ea79bb23c48828'}
-  - {seq: 2, role: markers, filename: assets/KR5b0086_002-CK-KZ-jye.markers.yaml, hash: 'sha256:d0d8f0b935ae0c9a3aabca5ca6e44669973f175e531109d0f9c6f60f126ced02'}
-  - {seq: 3, role: markers, filename: assets/KR5b0086_003-CK-KZ-jye.markers.yaml, hash: 'sha256:7d96b6e796f5341117ba149bb83a714f00b25f0c58e7cb78e90b827e02c05e1a'}
+  - {seq: 1, role: markers, filename: assets/KR5b0086_001-CK-KZ-jye.markers.yaml, hash: 'sha256:c1653f0fa1e5657f0da0a949ea670e438259db505012df245a584fb014940535'}
+  - {seq: 2, role: markers, filename: assets/KR5b0086_002-CK-KZ-jye.markers.yaml, hash: 'sha256:10de0ee289e869177ff6703fab7f1a5a567c169ad0c826bc5cc91dac6976cf5f'}
+  - {seq: 3, role: markers, filename: assets/KR5b0086_003-CK-KZ-jye.markers.yaml, hash: 'sha256:51cd0024fb39c271c48c5cf5fbdcb7d3cbd77329848c7958c58bbf0c2d160374'}
 table_of_contents:
 - ref:
     seq: 1
@@ -391,4 +391,4 @@ table_of_contents:
   label: 沐浴章第三十六
   type: section
   level: 2
-hash: sha256:5f518b343fb27a3bc543e02940bf524313212bf673de90034af0de63d1a9e568
+hash: sha256:f0020749517e509a767412a36c0048450a0cc1f9e99d238371897cccca56f5ec
